@@ -1,0 +1,21 @@
+.bgc
+    {
+        backgrond-color: #800020
+    }
+    .bgc2
+    {
+         background-color: #0eee51;
+    }
+
+    body{
+        background-color: red ;
+    }
+
+    footer{
+        background-color: blue;
+    }
+
+    .textcenter{
+        text-align: center;
+    }
+
