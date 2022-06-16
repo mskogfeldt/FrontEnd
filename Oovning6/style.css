@@ -13,6 +13,13 @@
 
     footer{
         background-color: blue;
+        position: absolute;
+        bottom: 0;
+        
+        height: 50px;
+        
+        color: #FFFFFF;
+       
     }
 
     .textcenter{
